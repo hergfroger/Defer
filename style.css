@@ -3,9 +3,10 @@ body {
   margin: 0;
 }
 
-.top-container {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  width: 100%;
+.top-center-text {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%); 
+  z-index: 1000;
 }
