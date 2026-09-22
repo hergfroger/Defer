@@ -1,0 +1,12 @@
+title {
+  color: #404040;
+  height: 100vh;
+  margin: 0;
+}
+
+.top-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+}
