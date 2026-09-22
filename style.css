@@ -1,12 +1,1 @@
-body {
-  color: #4f4f4f;
-  margin: 0;
-}
 
-.top-center-text {
-  position: fixed;
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%); 
-  z-index: 1000;
-}
